@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\bin\Debug\ConAppUsingWelcomeLib.exe.config
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\bin\Debug\ConAppUsingWelcomeLib.exe
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\bin\Debug\ConAppUsingWelcomeLib.pdb
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\bin\Debug\WelcomeLib.dll
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\bin\Debug\WelcomeLib.pdb
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\obj\Debug\ConAppUsingWelcomeLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\obj\Debug\ConAppUsingWelcomeLib.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\obj\Debug\ConAppUsingWelcomeLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\obj\Debug\ConAppUsingWelcomeLib.csproj.CopyComplete
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\obj\Debug\ConAppUsingWelcomeLib.exe
+D:\Mphasis\Live Session\Day20\ConAppUsingWelcomeLib\ConAppUsingWelcomeLib\obj\Debug\ConAppUsingWelcomeLib.pdb

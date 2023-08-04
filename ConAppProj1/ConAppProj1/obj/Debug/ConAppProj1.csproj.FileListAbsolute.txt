@@ -1,0 +1,10 @@
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\bin\Debug\ConAppProj1.exe.config
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\bin\Debug\ConAppProj1.exe
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\bin\Debug\ConAppProj1.pdb
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\bin\Debug\EmpLib.dll
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\obj\Debug\ConAppProj1.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\obj\Debug\ConAppProj1.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\obj\Debug\ConAppProj1.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\obj\Debug\ConAppProj1.csproj.CopyComplete
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\obj\Debug\ConAppProj1.exe
+D:\Mphasis\Live Session\Day20\ConAppProj1\ConAppProj1\obj\Debug\ConAppProj1.pdb
