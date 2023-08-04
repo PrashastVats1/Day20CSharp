@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MySharedLibrary">
-      <HintPath>..\..\MySharedLibrary\MySharedLibrary\bin\Debug\MySharedLibrary.dll</HintPath>
+    <Reference Include="MySharedLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5e3f42ca2d36a370, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\MySharedLib\v4.0_1.0.0.0__5e3f42ca2d36a370\MySharedLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
