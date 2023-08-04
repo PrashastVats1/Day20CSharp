@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\bin\Debug\MainApp.exe.config
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\bin\Debug\MainApp.exe
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\bin\Debug\MainApp.pdb
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\bin\Debug\MySharedLibrary.dll
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\bin\Debug\MySharedLibrary.pdb
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\obj\Debug\MainApp.exe
+D:\Mphasis\Live Session\Day20\MainApp\MainApp\obj\Debug\MainApp.pdb
